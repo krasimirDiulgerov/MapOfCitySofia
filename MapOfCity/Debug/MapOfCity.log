@@ -1,0 +1,9 @@
+﻿  City.cpp
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(319,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(379,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Krasy\source\repos\MapOfCity\MapOfCity\City.cpp(540,27): warning C4018: '<': signed/unsigned mismatch
+  MapOfCity.vcxproj -> C:\Users\Krasy\source\repos\MapOfCity\Debug\MapOfCity.exe
